@@ -8,10 +8,6 @@ import java.sql.ResultSet;
 import javax.swing.JComboBox;
 import models.KeSach;
 
-/**
- *
- * @author myPC
- */
 public class keSachController {
 
     loaiController loaiCTL = new loaiController();
